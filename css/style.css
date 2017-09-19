@@ -37,7 +37,7 @@ ul{
 /* Header **/
 header{
   background:#35424a;
-  color:black;
+  color:blac;
   padding-top:30px;
   min-height:70px;
   border-bottom:#e8491d 3px solid;
@@ -82,9 +82,9 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('<img src=lin.jpg') no-repeat 0 -400px;
+  background-image:url('lin.jpg') ;
   text-align:center;
-  color:black;
+  color:#ffffff;
 }
 
 #showcase h1{
