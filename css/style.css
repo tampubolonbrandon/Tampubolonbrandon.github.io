@@ -82,6 +82,7 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
+  style="width:50%"
   background-image:url('lin.jpg') ;
   text-align:center;
   color:#ffffff;
