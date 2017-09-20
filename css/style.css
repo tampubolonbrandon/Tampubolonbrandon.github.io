@@ -204,3 +204,20 @@ footer{
     margin-bottom:5px;
   }
 }
+.nav { margin: 0; padding: 0; }
+.nav li { 
+    list-style: none; 
+    display: inline; 
+    border-left: #ffffff 1px solid; 
+}
+.nav li a:link, .nav li a:visited { 
+    text-decoration: none; 
+    color: #ffffff; 
+    margin-left: 8px; 
+    margin-right: 5px; 
+}
+.nav li a:hover{ 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+.nav li.first { border: none; }
