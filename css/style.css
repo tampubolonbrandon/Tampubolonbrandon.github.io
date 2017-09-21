@@ -48,6 +48,7 @@ header a{
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
+
 }
 
 header li{
@@ -84,7 +85,7 @@ header a:hover{
   min-height:400px;
   background-image:url('lin.jpg') ;
   text-align:center;
-  color:#FFD700;
+  color:#ffffff;
 }
 
 #showcase h1{
@@ -100,8 +101,8 @@ header a:hover{
 /* Newsletter */
 #newsletter{
   padding:15px;
-  color:#FFDF00;
-  background:#35424a
+  color:#000000;
+  background:#DAA520
 }
 
 #newsletter h1{
