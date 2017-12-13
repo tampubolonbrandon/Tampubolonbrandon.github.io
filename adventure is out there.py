@@ -36,7 +36,7 @@ while game==True:
     response=response.lower()
 
     if response=='no' or response=='n':
-        print ("ok suit yourself")
+        print ("ok suit yourself could have just ended it")
         game = False
     else:
         print("you got eaten by hundreds of zombies.....WASTED")
