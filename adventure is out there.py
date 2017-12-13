@@ -14,7 +14,7 @@ while game==True:
     response=response.lower()
 
     if response=='yes' or response=='y':
-        print ("hissssssss.........BOOM!!!!!!")
+        print ("hissssssss.........BOOM!!!!!! you been infected")
         game = False
     else:
         print("GOOD JOB!!!!.... THERE WAS A CREEPER IN THERE")
@@ -28,7 +28,7 @@ while game==True:
         print ("how are you going to defend yourself")
         game = False
     else:
-        print("you got the SMR")
+        print("you got the worst gun in zombies the SMR")
         game = False
 
     print('would you like to kill yourself? (yes/no)?')
@@ -41,6 +41,7 @@ while game==True:
     else:
         print("you got eaten by hundreds of zombies.....WASTED")
         game = False
+        
 
    
         
