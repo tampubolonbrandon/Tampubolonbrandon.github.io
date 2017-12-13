@@ -28,7 +28,7 @@ while game==True:
         print ("how are you going to defend yourself")
         game = False
     else:
-        print("you got the raygun mark 2")
+        print("you got the SMR")
         game = False
 
     print('would you like to kill yourself? (yes/no)?')
